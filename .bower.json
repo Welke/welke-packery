@@ -1,0 +1,37 @@
+{
+  "name": "welke-packery",
+  "version": "1.4.1",
+  "main": "packery/dist/packery.pkgd.js",
+  "ignore": [
+    ".*",
+    "*.custom.*",
+    "*.log",
+    "*.map",
+    "*.md",
+    "lodash.src.js",
+    "component.json",
+    "package.json",
+    "doc",
+    "node_modules",
+    "perf",
+    "test",
+    "vendor",
+    "**/.*",
+    "test/",
+    "examples/",
+    "contributing.md",
+    "package.json",
+    "Gruntfile.js"
+  ],
+  "homepage": "https://github.com/Welke/welke-packery",
+  "_release": "1.4.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.4.1",
+    "commit": "61c553add93c2203a897f86ec336c9995e48a37f"
+  },
+  "_source": "git://github.com/Welke/welke-packery.git",
+  "_target": "~1.4.1",
+  "_originalSource": "welke-packery",
+  "_direct": true
+}
