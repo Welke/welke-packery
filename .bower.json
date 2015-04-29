@@ -28,7 +28,7 @@
   "_resolution": {
     "type": "version",
     "tag": "1.4.1",
-    "commit": "61c553add93c2203a897f86ec336c9995e48a37f"
+    "commit": "21fe601929c41274e4908fff23fa9fa2d1ecee78"
   },
   "_source": "git://github.com/Welke/welke-packery.git",
   "_target": "~1.4.1",
