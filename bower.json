@@ -1,6 +1,6 @@
 {
   "name": "welke-packery",
   "version": "1.4.1",
-  "main": "packery/dist/packery.pkgd.js",
+  "main": "packery/dist/packery.pkgd.min.js",
   "ignore": []
 }
